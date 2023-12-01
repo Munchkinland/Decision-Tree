@@ -1,3 +1,5 @@
+![Alt text](image.png)
+
 # Diabetes Predictor
 
 Welcome to the Diabetes Predictor project! This machine learning project is designed to predict the likelihood of diabetes based on various health-related features.
