@@ -23,29 +23,28 @@ To get started with the project, follow these steps:
    git clone https://github.com/yourusername/diabetes-predictor.git
    cd diabetes-predictor
 
-Install Dependencies:
+2.Install Dependencies:
 
 pip install -r requirements.txt
 
-Run the Jupyter Notebook:
+3.Run the Jupyter Notebook:
 jupyter notebook diabetes_predictor.ipynb
-Explore the Model:
+
+✅Explore the Model:
 Dive into the Jupyter Notebook to explore the code, model training, and evaluation.
 
-Project Structure
+✅Project Structure
 diabetes_predictor.ipynb: Jupyter Notebook containing the project code.
 models/: Directory to store saved model files.
 data/: Directory for dataset storage.
 
-Next Steps
+✅Next Steps
  Further validation and testing.
  Consideration for deployment in real-world scenarios.
  Continuous improvement for enhanced prediction accuracy.
 
-Contributions
+✅Contributions
 Contributions are welcome! Feel free to open issues, submit pull requests, or provide feedback.
 
-License
+✅License
 This project is licensed under the MIT License.
-
-Este README proporciona una breve descripción del proyecto, cómo empezar, y algunos pasos adicionales que podrían ser útiles. Asegúrate de personalizarlo con información específica de tu proyecto.
